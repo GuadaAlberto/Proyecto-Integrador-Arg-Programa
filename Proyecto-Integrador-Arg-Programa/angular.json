@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "Proyecto-Integrador-Arg-Programa/Proyecto-Integrador-Arg-Programa/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "Proyecto-Integrador-Arg-Programa/Proyecto-Integrador-Arg-Programa/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -97,5 +100,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "759e8619-74fc-48b6-9eae-8b5db60cdeb3"
   }
 }
