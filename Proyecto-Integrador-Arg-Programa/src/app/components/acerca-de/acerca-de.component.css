@@ -1,0 +1,34 @@
+.row {
+    padding: 70px;
+}
+
+div {
+    background-color: #a1b5cb;
+}
+
+
+#nombre {
+    font-weight: bold;
+    top:850px;
+    font-size: 30px;
+}
+
+
+#apellido {
+    font-weight: bold;
+    top:900px;
+    font-size: 30px;
+    left: 25%;
+}
+
+#fotoPerfil {
+    border-radius: 50%;
+    box-shadow: 3px 3px 3px gray;
+    margin-top: -200px;
+    left: 20px;
+}
+
+#acercaDe {
+    margin-top: 10%;
+}
+
